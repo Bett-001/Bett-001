@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bett-001</h1>
-<h3 align="center">A passionate developer and trader from Kenya</h3>
+<h1 align="center">Hi 👋, I'm TONNY BETT</h1>
+<h3 align="center">A passionate Fullstack developer and trader from Kenya</h3>
 
 <!-- Animated Typing SVG -->
 <p align="center">
