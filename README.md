@@ -5,6 +5,11 @@
   <img src="https://readme-typing-svg.demolab.com?size=24&color=00FF00&center=true&vCenter=true&width=600&lines=Full-stack+%26+Backend+Developer;AI+%26+LLM+Integrations;Python+%7C+JavaScript+%7C+Flask+%7C+React;Django+%7C+SQL+%7C+C%23;Pine+Script+%7C+MQL5+%7C+NinjaTrader;Building+fintech+%26+trading+tools" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bett-001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/Bett-001?tab=followers"><img src="https://img.shields.io/github/followers/Bett-001?label=Followers&style=social" alt="Followers" /></a>
+</p>
+
 ---
 
 ### 🖥️ About Me
@@ -40,26 +45,46 @@
 
 ---
 
-### 💹 Trading Tools I Build
+### ⚡ Tech Stack
+
+<h4 align="center">🤖 AI & LLMs</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/TradingView-Pine%20Script-131722?style=for-the-badge&logo=tradingview&logoColor=white" alt="Pine Script" />
-  <img src="https://img.shields.io/badge/MetaTrader%205-MQL5-0B6FD6?style=for-the-badge" alt="MQL5" />
-  <img src="https://img.shields.io/badge/NinjaTrader-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="NinjaTrader C#" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/LLM%20Integrations-6E40C9?style=for-the-badge" alt="LLM Integrations" />
+  <img src="https://img.shields.io/badge/AI%20Chatbots-0A9396?style=for-the-badge" alt="AI Chatbots" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-2A9D8F?style=for-the-badge" alt="Prompt Engineering" />
 </p>
 
----
+<h4 align="center">⚙️ Backend</h4>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" alt="Flask" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" alt="Django" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45" alt="SQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" alt="C#" />
+</p>
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" alt="Flask" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" alt="Django" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" alt="SQL" />
+<h4 align="center">🌐 Frontend</h4>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" alt="CSS3" />
+</p>
+
+<h4 align="center">💹 Trading & Fintech</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pine%20Script-131722?style=for-the-badge&logo=tradingview&logoColor=white" alt="Pine Script" />
+  <img src="https://img.shields.io/badge/MQL5-0B6FD6?style=for-the-badge" alt="MQL5" />
+  <img src="https://img.shields.io/badge/NinjaTrader%20C%23-512BD4?style=for-the-badge" alt="NinjaTrader C#" />
+</p>
+
+<h4 align="center">🛠️ Tools</h4>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" alt="VS Code" />
 </p>
 
 ---
